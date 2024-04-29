@@ -1,4 +1,4 @@
-# TA-Adler-310-Teardown-Documentation
+# Triumph-Adler-310-Teardown
 An ongoing project to document the repair and workings of a Triumph-Adler 310 Word Processor. 
 
 ## Introduction
